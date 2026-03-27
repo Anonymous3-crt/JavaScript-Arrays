@@ -12,5 +12,4 @@ for (let i = 1; i < temperatures.length; i++) {
   }
 }
 
-// 4. Print the final result
 console.log("The highest temperature is: " + highest);
